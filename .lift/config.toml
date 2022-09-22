@@ -1,1 +1,7 @@
-customTools = [ ".lift/markdown_tool.py", ".lift/bom_tool.py" ]
+<?xml version="1.0"?>
+<liftConfiguration>
+  <customTools>
+    <customTool filePath=".lift/markdown_tool.py" />
+    <customTool filePath=".lift/bom_tool.py" />
+  </customTools>
+</liftConfiguration>
