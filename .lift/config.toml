@@ -1,1 +1,1 @@
-customTools = [ ".lift/markdown_tool.py", ".lift/bom_tool.py" ]
+customTools = [ ".lift/markdown_tool.py", ".lift/v3_tool.py", ".lift/v5_tool.py" ]
