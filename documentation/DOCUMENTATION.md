@@ -11,3 +11,9 @@ I :purple_heart: markdown
 This will add two issues, with one fixed in a PR
 
 Unfixed markdown comment
+
+# Testing Markdown
+
+A further markdown comment
+
+A markdown code snippet
