@@ -17,3 +17,9 @@ Unfixed markdown comment
 This will add two issues, with one fixed in a PR
 
 Yet another markdown comment
+
+# Fix rate metrics data Testing Take 2
+
+This will add two issues, with one fixed in a PR
+
+See again, another markdown comment
