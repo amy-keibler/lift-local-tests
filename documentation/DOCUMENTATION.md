@@ -17,5 +17,3 @@ Unfixed markdown comment
 This will add two issues, with one fixed in a PR
 
 Yet another markdown comment
-
-Again another markdown comment
