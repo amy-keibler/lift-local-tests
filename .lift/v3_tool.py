@@ -53,6 +53,11 @@ def line_to_tool_note(filename, line_number, message):
         "line": line_number
     }
 
+def finalize(path):
+    print(json.dumps({
+        "toolNotes": []
+    }))
+
 def main():
     command = None
     if len(sys.argv) > 1:
