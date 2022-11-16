@@ -10,6 +10,7 @@ def emit_version():
 
 def emit_version_json():
     print(json.dumps({
+        "name": "v5_tool",
         "api-version": {
             "type": "bulk",
             "version": 2
