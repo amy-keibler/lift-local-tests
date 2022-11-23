@@ -10,3 +10,7 @@ I :purple_heart: markdown
 ## Test Data
 
 A line with a markdown comment
+
+## Testing minimum fix rate
+
+A markdown comment for minimum fix rate
