@@ -13,5 +13,3 @@ A line with a markdown comment
 
 
 ## SVG Test Data
-
-A line with a markdown comment, for testing the SVG
