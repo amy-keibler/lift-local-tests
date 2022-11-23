@@ -10,3 +10,6 @@ I :purple_heart: markdown
 ## Test Data
 
 A line with a markdown comment
+
+
+## SVG Test Data
