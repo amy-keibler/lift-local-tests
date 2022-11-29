@@ -13,4 +13,4 @@ A line with a markdown comment
 
 ## Testing minimum fix rate
 
-A markdown comment for minimum fix rate
+A new markdown comment for minimum fix rate
