@@ -6,11 +6,6 @@ Here is where I would add some documentation if this were a real project. Alas, 
 
 I :purple_heart: markdown
 
+## Testing svg without a link
 
-## Test Data
-
-A line with a markdown comment
-
-## Testing minimum fix rate
-
-A new markdown comment for minimum fix rate
+A markdown comment that hopefully doesn't have a link
