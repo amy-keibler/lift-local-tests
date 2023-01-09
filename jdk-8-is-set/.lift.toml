@@ -1,0 +1,3 @@
+tools = [ "errorprone" ]
+customTools = ["./jdk8-tool.sh"]
+jdkVersion = "8"
