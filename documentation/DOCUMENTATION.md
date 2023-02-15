@@ -17,10 +17,3 @@ I :purple_heart: markdown
 6 markdown comment
 7 markdown comment
 8 markdown comment
-9 markdown comment
-10 markdown comment
-11 markdown comment
-12 markdown comment
-13 markdown comment
-15 markdown comment
-16 markdown comment

@@ -24,27 +24,3 @@ print(val)
 
 val = hashlib.md5(b'8 hash')
 print(val)
-
-val = hashlib.md5(b'9 hash')
-print(val)
-
-val = hashlib.md5(b'10 hash')
-print(val)
-
-val = hashlib.md5(b'11 hash')
-print(val)
-
-val = hashlib.md5(b'12 hash')
-print(val)
-
-val = hashlib.md5(b'13 hash')
-print(val)
-
-val = hashlib.md5(b'14 hash')
-print(val)
-
-val = hashlib.md5(b'15 hash')
-print(val)
-
-val = hashlib.md5(b'16 hash')
-print(val)
